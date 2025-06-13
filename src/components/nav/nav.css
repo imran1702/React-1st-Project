@@ -1,0 +1,20 @@
+#nav_head{
+    background: #000;
+}
+.navbar-nav a{
+    color: #fff;
+    padding: 0 15px !important;
+}
+.navbar-nav a:hover{
+    color: #FFD2A4;
+}
+.cn_btn{
+    color: #000;
+    background: #FFD2A4;
+    padding: 20px 48px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
